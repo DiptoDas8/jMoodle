@@ -1,0 +1,186 @@
+Level-4 Term-II
+
+CSE 400 Project and Thesis
+6 hours in a week, 3.00 Cr.
+Study of problems in the field of Computer Science and Engineering.
+
+CSE 409 Computer Graphics
+3 hours in a week, 3.00 Cr.
+Graphics hardware: display devices, input devices etc; Basic raster
+graphics algorithms for drawing 2D primitives; Two-dimensional and
+three-dimensional viewing, clipping and transformations; Three- dimensional
+object representations: polygon surface, B-Spline curves and surfaces, BSP
+trees, Octrees, Fractal-Geometry methods; Visible surface detection methods:
+Z-buffer method, BSP tree method, Ray casting method; Illumination
+models; Surface rendering methods: polygon rendering, ray tracing, terrain
+visualization with height mapping, modeling surface details with texture
+mapping; Color models; Computer animation.
+
+CSE 410 Computer Graphics Sessional
+3 hours in alternate week, 0.75 Cr.
+Laboratory works based on CSE 409.
+
+HUM 275 Economics
+2 hours in a week, 2.00 Cr.
+Definition of Economics; Economics and engineering; Principles of
+economics. Micro-Economics: Introduction to various economic systems -
+capitalist, command and mixed economy; Fundamental economic problems
+and the mechanism through which these problems are solved; Theory of
+demand and supply and their elasticities; Theory of consumer behavior;
+Cardinal and ordinal approaches of utility analysis; Price determination;
+Nature of an economic theory; Applicability of economic theories to the
+problems of developing countries; Indifference curve techniques; Theory
+of production, production function, types of productivity; Rational region
+of production of an engineering firm; Concepts of market and market
+structure; Cost analysis and cost function; Small scale production and large
+scale production; Optimization; Theory of distribution; Use of derivative
+in economics: maximization and minimization of economic functions,
+relationship among total, marginal and average concepts. Macro-economics:
+Savings; investment, employment; National income analysis; Inflation;
+Monetary policy; Fiscal policy and trade policy with reference to Bangladesh;
+Economics of development and planning.
+
+HUM 371 Financial and Managerial Accounting
+2 hours in a week, 2.00 Cr.
+Financial Accounting: Objectives and importance of accounting;
+Accounting as an information system; computerized system and applications
+in accounting; Recording system: double entry mechanism; Accounts and
+their classification; Accounting equation; Accounting cycle: journal, ledger,
+trial balance; Preparation of financial statements considering adjusting and
+closing entries; Accounting concepts (principles) and conventions. Financial
+statement analysis and interpretation: ratio analysis.
+Cost and Management Accounting: Cost concepts and classification;
+Overhead cost: meaning and classification; Distribution of overhead cost;
+Overhead recovery method/rate; Job order costing: preparation of job cost
+sheet and quotation price; Inventory valuation: absorption costing and
+marginal/variable costing technique; Cost-Volume-Profit analysis: meaning,
+breakeven analysis, contribution margin approach, sensitivity analysis.
+Short-term investment decisions: relevant and differential cost analysis.
+Long-term investment decisions: capital budgeting, various techniques of
+evaluation of capital investments.
+
+CSE 455 Data Communication-II
+3 hours in a week, 3.00 Cr.
+Synchronous and asynchronous communications; Hardware interfaces,
+multiplexers, concentrators and buffers; Communication mediums and their
+characteristics; Data communication services: SMDS and ATM; Error
+control codes: linear block codes, cyclic codes, MLDC codes, convolution
+codes, Trellis code modulation; Digital switching: space and time division
+switching; Radio system design; Fiber optics communication: transmitter,
+receivers, network components, WDM; Line coding, trunks, multiplexing,
+switching, ATM switches; Satellite communications: frequency bands
+and characteristics, types of satellites, transmission impairments, capacity
+allocation; Multiple access techniques.
+
+CSE 456 Data Communication-II Sessional
+3 hours in alternate week, 0.75 Cr.
+Laboratory works based on CSE 455.
+
+CSE 457Wireless Networks
+3 hours in a week, 3.00 Cr.
+Cellular concepts: frequency reuse, handoff strategies, interference and
+system capacity, grade of service, improving capacity and coverage, call
+blocking probability; Propagation effects: outdoor propagation models,
+indoor propagation models, power control, Doppler’s effect, small and large
+scale fades; Wireless LAN Technology; IEEE 802.11: standard, protocol
+architecture, physical layer and media access control; Mobile IP; Wireless
+Application Protocol; IEEE 802.16 BroadbandWireless Access; Brief review
+of 2nd and 3rd generation wireless: GSM, GPRS, CDMA; Cordless system;
+Wireless local loop; Bluetooth: overview and baseband specifications.
+
+CSE 458Wireless Networks Sessional
+3 hours in alternate week, 0.75 Cr.
+Laboratory works based on CSE 457.
+
+CSE 461 Algorithm Engineering
+3 hours in a week, 3.00 Cr.
+Computational complexity, Parameterized complexity, Algorithms
+for combinatorial optimization, practical computing and heuristics,
+Approximation algorithms, LP based approximation algorithms, randomized
+algorithms, Experimental algorithmic, Algorithms in state- of-the-art fields
+like Bioinformatics, Grid Computing, VLSI design etc.
+
+CSE 462 Algorithm Engineering Sessional
+3 hours in alternate week, 0.75 Cr.
+Laboratory works based on CSE 461.
+
+CSE 463 Computational Geometry
+3 hours in a week, 3.00 Cr.
+Algorithm and complexity of fundamental geometric objects: polygon
+triangulations and art gallery theorem, polygon partitioning, convex hulls in
+2-dimension. Proximity: Voronoi diagrams and Delaunary triangulations.
+Graph Drawing: drawing styles and applications, drawing of rooted trees,
+straight line drawing of planar graphs.
+
+CSE 464 Computational Geometry Sessional
+3.00 hours in alternate week, 0.75 Cr.
+Laboratory works based on CSE 463.
+
+CSE 471 Machine Learning
+3 hours in a week, 3.00 Cr.
+Introduction to machine learning; Learning algorithms: supervised,
+unsupervised, reinforcement, attribute based, neural network based, relational
+supervised and negative correlation; Genetic algorithm, genetic programming
+and evolutionary programming; Practical application of machine learning.
+
+CSE 472 Machine Learning Sessional
+3 hours in alternate week, 0.75 Cr.
+Laboratory works based on CSE 471.
+
+CSE 473 Pattern Recognition
+3 hours in a week, 3.00 Cr.
+Pattern Recognition: introduction, importance; Statistical and Neural
+Pattern Recognition: Bayesian classifier, Bayes decision theory, discriminant
+functions and decision surfaces; Bayesian classifier for normal distributions;
+Linear classifiers: discriminant functions and decision hyperplanes,
+Perceptron algorithm and its variants, Kessler’s construction; Nonlinear
+classifiers: two and three layer perceptrons, backpropagation algorithm and
+its variants; Template matching: optimal path searching techniques, dynamic
+programming methods, correlation based matching and 2D log search
+algorithm for image matching; Context dependent classification: Viterbi
+algorithm, channel equalization, observable and hidden Markov models, three
+problems of HMM and their application in speech recognition; Syntactic
+Pattern Recognition: introduction to Syntactic Pattern Recognition, grammarbased
+approach, parsing, graph-based approach; Unsupervised classification:
+basic concepts of clustering, proximity measures, categories of clustering
+algorithms, sequential clustering algorithms.
+
+CSE 474 Pattern Recognition Sessional
+3 hours in alternate week, 0.75 Cr.
+Introduction to MATLAB; Laboratory works based on CSE 473 and using
+MATLAB: Bayesian classifier, linear classifier, nonlinear classifier, image
+matching, speech recognition, context dependent classification.
+
+CSE 481 VLSI Design
+3 hours in a week, 3.00 Cr.
+VLSI design methodology: top-down design approach, technology trends
+and design automation algorithms; Introduction to CMOS inverters and
+basic gates; Brief overview of CMOS fabrication process: layout and
+design rules; Basic CMOS circuit characteristics and performance estimation;
+Buffer circuit design; Complex CMOS gates, CMOS building blocks:
+adder, multiplier; data path and memory structures. Hardware modeling:
+hardware modeling languages, logic networks, state diagrams, data-flow and
+sequencing graphs, behavioral optimization. Architectural Synthesis: circuit
+specification, strategies for architectural optimization, data-path synthesis,
+control unit synthesis and synthesis of pipelined circuits. ASIC design using
+FPGA and PLDs.
+
+CSE 482 VLSI Design Sessional
+3 hours in alternate week, 0.75 Cr.
+Laboratory works based on CSE 481.
+
+CSE 483 Computer Interfacing
+3 hours in a week, 3.00 Cr.
+Interfacing with floppy and hard-disk controller; serial communication
+interface; Barcode reader; Sound card; MIDI interface; Printer interface;
+ISA, PCI, AGP, PS/2 and USB interfaces; Interfacing with stepper motors,
+controlling semiconductor power switches - BJT, MOSFET, SCR and Triac,
+Application of Opto-coupler and relays, Embedded Processors, Embedded
+Computing Platform, Real Time Embedded Systems, Real Time Operating
+Systems, Embedded Systems Programming, Mapping between languages
+and hardware, Embedded Communication Systems, Embedded Computer
+Security.
+
+CSE 484 Computer Interfacing Sessional
+3 hours in alternate week, 0.75 Cr.
+Laboratory works based on CSE 483.

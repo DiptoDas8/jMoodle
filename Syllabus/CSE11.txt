@@ -1,0 +1,110 @@
+Level-1 Term-I
+
+CSE 100 Introduction to Computer Systems
+4 hours in a week, 2.00 Cr.
+Introduction to computations; Early history of computing devices;
+Computers; Major components of a computer; Hardware: processor,
+memory, I/O devices; Software: Operating system, application software;
+Basic architecture of a computer; Basic Information Technology; The
+Internet; Number system: binary, octal, hexadecimal, binary arithmetic;
+Basic programming concepts; Program development stages: flow charts;
+Programming constructs: data types, operators, expressions, statements,
+control statements, functions, array.
+
+EEE 163 Introduction to Electrical Engineering
+3 hours in a week, 3.00 Cr.
+Fundamental electrical concepts and measuring units; Direct current: voltage,
+current, resistance and power; Laws of electrical circuits and methods of
+network analysis; Introduction to magnetic circuits; Alternating current:
+instantaneous and r.m.s. current, voltage and power, average power for
+various combinations of R, L and C circuits, phasor representation of
+sinusoidal quantities.
+
+EEE 164 Introduction to Electrical Engineering
+Sessional
+3 hours in a week, 1.50 Cr.
+Laboratory works based on EEE 163.
+
+MATH 141 Differential Calculus and Co-ordinate
+Geometry
+3 hours in a week, 3.00 Cr.
+Differential Calculus: Limits, continuity and differentiability; Successive
+differentiation of various types of functions; Leibniz’s Theorem; Rolle’s
+Theorem; Mean value Theorem in finite and infinite forms; Lagrange’s
+form of remainders; Cauchy’s form of remainder; Expansion of
+functions; Evaluation of indeterminate forms by L’Hospital’s rule; Partial
+differentiation; Euler’s Theorem; Tangent and Normal, Subtangent and
+subnormal in cartesian and polar co-ordinates; Maximum and minimum
+values of functions of single variable; Points of inflexion; Curvature, radius
+of curvature, center of curvature; Asymptotes, curve tracing.
+Co-ordinate Geometry: Transformation of co-ordinates axes and its uses;
+Equation of conics and its reduction to standard forms; Pair of straight
+lines; Homogeneous equations of second degree; Angle between a pair of
+straight lines; Pair of lines joining the origin to the point of intersection of
+two given curves, circles; System of circles; Orthogonal circles; Radical
+axis, radical center, properties of radical axes; Coaxial circles and limiting
+points; Equations of parabola, ellipse and hyperbola in cartesian and polar
+co-ordinates; Tangents and normals, pair of tangents; Chord of contact;
+Chord in terms of its middle points; Pole and polar parametric co-ordinates;
+Diameters; Conjugate diameters and their properties; Director circles and
+asymptotes.
+
+ME 160 Mechanical Engineering Drawing-I
+3 hours in a week, 1.50 Cr.
+Introduction; Instruments and their uses; First and third angle projections;
+Orthographic drawings; Isometric views; Missing lines and views; Sectional
+views and conventional practices; Auxiliary views.
+
+ME 165 Basic Mechanical Engineering
+3 hours in a week, 3.00 Cr.
+Sources of energy: conventional and renewable; Introduction to IC engines,
+Refrigeration and Air conditioning systems. Statics of particles and rigid
+bodies; Forces in trusses and frames; Relative motion; Kinematics of
+particles: Newton’s Second Law of Motion; Kinematics of rigid bodies.
+Introduction to Robotics; Plane, rotational and spatial motion with
+applications to manipulators; Geometric configurations: structural elements,
+linkage, arms and grippers; Motion characteristics.
+
+PHY 109 Physics (Heat and Thermodynamics,
+Structure of Matter, Waves and Oscillations, and
+Physical Optics)
+4 hours in a week, 4.00 Cr.
+Heat and Thermodynamics: Principle of temperature measurements:
+platinum resistance thermometer, thermo-electric thermometer, pyrometer;
+Kinetic theory of gases: Maxwell’s distribution of molecular speeds, mean
+free path, equipartition of energy, Brownian motion, Van der Waal’s equation
+of state, review of the First Law of thermodynamics and its application,
+reversible and irreversible processes, Second Law of thermodynamics, Carnot
+cycle; Efficiency of heat engines, Carnot’s Theorem, entropy and disorder,
+thermodynamic functions, Maxwell relations, Clausius-Clapeyron Equation,
+Gibbs Phase Rule, Third Law of thermodynamics.
+Structure of Matter: Crystalline and non-crystalline solids, single crystal
+and polycrystal solids, unit cell, crystal systems, co-ordinations number,
+crystal planes and directions, sodium chloride and CsCl structure, packing
+factor, Miller indices, relation between interplanar spacing and Miller
+indices, Bragg’s Law, methods of determination of interplanar spacing from
+diffraction patterns; Defects in solids: point defects, line defects; Bonds in
+solids, inter-atomic distances, calculation of cohesive and bonding energy;
+Introduction to band theory: distinction between metal, semiconductor and
+insulator.
+Waves and Oscillations: Differential equation of a simple harmonic
+oscillator, total energy and average energy, combination of simple harmonic
+oscillations, Lissajous’ figures, spring-mass system, calculation of time
+period of torsional pendulum, damped oscillation, determination of damping
+co-efficient, forced oscillation, resonance, two-body oscillations, Reduced
+mass, differential equation of a progressive wave, power and intensity of wave
+motion, stationary wave, group velocity and phase velocity, architectural
+acoustics, reverberation and Sabine’s formula.
+Physical Optics: Theories of light; Interference of light, Young’s double
+slit experiment; Displacements of fringes and its uses; Fresnel Bi-prism,
+interference at wedge shaped films, Newton’s rings, interferometers;
+Diffraction of light: Fresnel and Fraunhoffer diffraction, diffraction
+by single slit, diffraction from a circular aperture, resolving power of
+optical instruments, diffraction at double slit & N-slits-diffraction grating;
+Polarization: production and analysis of polarized light, Brewster’s law,
+Malus law, Polarization by double refraction, retardation plates, Nicol prism,
+optical activity, polarimeters, polaroid.
+
+PHY 102 Physics Sessional
+3 hours in a week, 1.50 Cr.
+Laboratory works based on PHY 109.

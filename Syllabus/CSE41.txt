@@ -1,0 +1,145 @@
+Level-4 Term-I
+
+CSE 400 Project and Thesis
+6 hours in a week, 3.00 Cr.
+Study of problems in the field of Computer Science and Engineering.
+
+CSE 401 Artificial Intelligence
+3 hours in a week, 3.00 Cr.
+Introduction to old and new AI techniques; Knowledge representation;
+Propositional and first order logic, inference in first order logic; Frame
+problem; Search techniques in AI; Game playing; Planning; Probabilistic
+reasoning; Learning in symbolic and non-symbolic representation; Natural
+language processing. Introduction to expert system.
+
+CSE 402 Artificial Intelligence Sessional
+3 hours in alternate week, 0.75 Cr.
+Laboratory works based on CSE 401.
+
+CSE 403 Digital System Design
+3 hours in a week, 3.00 Cr.
+Designing I/O system; I/O devices; Designing Microprocessor based system
+with interfacing chips; Programmable peripheral interface (interface to
+A/D and D/A converter); Keyboard/display interface; Programmable timer;
+Programmable interrupt controller, DMA controller; Design using MSI and
+LSI components; Design of memory subsystem using SRAM and DRAM;
+Design of various components of a computer: ALU, memory and control
+unit - hardwired and micro programmed; Microprocessor based designs;
+Computer BUS standards; Design special purpose controllers.
+
+CSE 404 Digital System Design Sessional
+3 hours in a week, 1.50 Cr.
+Laboratory works based on CSE 403.
+
+IPE 493 Industrial Management
+3 hours in a week, 3.00 Cr.
+Introduction, evolution, management function, organization and
+environment.
+Organization: Theory and structure; Coordination; Span of control;
+Authority delegation; Groups; Committee and task force; Manpower
+planning.
+Personnel Management: Scope; Importance; Need hierarchy; Motivation;
+Job redesign; Leadership; Participative management; Training; Performance
+appraisal; Wages and incentives; Informal groups; Organizational change
+and conflict.
+Cost and Financial Management: Elements of costs of products
+depreciation; Break-even analysis; Investment analysis; Benefit cost analysis.
+Management Accounting: Cost planning and control; Budget and budgetary
+control; Development planning process.
+Marketing Management: Concepts; Strategy; Sales promotion; Patent
+laws.
+Technology Management: Management of innovation and changes;
+Technology life cycle; Case studies.
+
+CSE 411 Simulation and Modeling
+3 hours in a week, 3.00 Cr.
+Simulation modeling basics: systems, models and simulation; Classification
+of simulation models; Steps in a simulation study; Concepts in discrete-event
+simulation: event-scheduling vs. process- interaction approaches,
+time-advance mechanism, organization of a discrete-event simulation model;
+Continuous simulation models; Combined discreet-continuous models;
+Monte Carlo simulation; Simulation of queuing systems. Building valid and
+credible simulation models: validation principles and techniques, statistical
+procedures for comparing real-world observations and simulated outputs,
+input modeling; Generating random numbers and random variates; Output
+analysis. Simulation languages; Analysis and modeling of some practical
+systems.
+
+CSE 421 Basic Graph Theory
+3 hours in a week, 3.00 Cr.
+Graphs: simple graphs, digraphs, subgraphs, vertex-degrees, walks, paths and
+cycles; Trees, spanning trees in graphs, distance in graphs; Complementary
+graphs, cut-vertices, bridges and blocks, k-connected graphs; Euler tours,
+Hamiltonian cycles, Chinese Postman Problem, Traveling Salesman Problem;
+Chromatic number, chromatic polynomials, chromatic index, Vizing’s
+theorem, planar graphs, perfect graphs.
+
+CSE 423 Fault Tolerant Systems
+3 hours in a week, 3.00 Cr.
+Introduction of Fault Tolerant Systems and architectures; Fault detection and
+location in combinational and sequential circuits; Fault test generation for
+combinational and sequential circuits; Digital simulation as a diagnostic tool;
+Automatic test pattern generator; Fault modeling; Automatic test equipment,
+faults in memory, memory test pattern and reliability; Performance
+monitoring, self checking circuits, burst error correction and triple modular
+redundancy; Maintenance processors.
+
+CSE 433 Digital Image Processing
+3 hours in a week, 3.00 Cr.
+Introduction; Digitization of images and its properties; Data structures
+for image analysis; Image processing; Segmentation: detection of
+discontinuities, edge linking and boundary detection, thresholding, region
+oriented segmentation, use of motion in segmentation; Image transforms:
+Z-transform, 2D Fourier transform, discrete cosine transform, Hadamard
+transform, Walsh transform, Slant transform; Image compression: run-length
+coding, transform coding, standards.
+
+CSE 435 Basic Multimedia Theory
+3 hours in a week, 3.00 Cr.
+Multimedia systems - introduction; Coding and compression standards;
+Architecture issues in multimedia; Operating systems issues in multimedia
+- real-time OS issues, synchronization, interrupt handling; Database issues
+in multimedia - indexing and storing multimedia data, disk placement,
+disk scheduling, searching for a multimedia document; Networking issues
+in multimedia - Quality-of-service guarantees, resource reservation, traffic
+specification, shaping, and monitoring, admission control; Multicasting
+issues; Session directories; Protocols for controlling sessions; Security issues
+in multimedia - digital water- marking, partial encryption schemes for video
+streams; Multimedia applications - audio and video conferencing, video on
+demand, voice over IP.
+
+HUM 211 Sociology
+2 hours in a week, 2.00 Cr.
+Sociological perspective: definition, nature, scope and importance of
+sociology; Sociology and scientific approach: methods of social research,
+stages of social research; Primary concepts of sociology: society, community,
+association, institution, group; Social evolution: stages in the evolution
+of human civilization; Culture: definition, characteristics, culture contents
+(material and non-material), cultural lag, culture and civilization; Industrial
+revolution: the growth of capitalism, features and social consequences,
+socialism; Social organization: family, forms and functions of family,
+functions of family in modern industrial society, marriage, forms of
+marriage, functions of marriage; Social stratification: main types of social
+stratification - slavery-caste and social class and status, social stratification
+and social mobility; Social control: religion and morality, custom and
+public opinion, taboo-law, state and education; Social change: changeevolution-
+progress-development, factors in social change; Society and
+population: human migration, population and resources; Some current social
+problems: crime, deviance, juvenile delinquency, youth unrest; Technology
+and society: effects of technological factors on social life.
+
+HUM 213 Government
+2 hours in a week, 2.00 Cr.
+Some basic concepts of government and politics; Functions, organs and forms
+of modern state and government; Socialism, Fascism, Marxism. Government
+and politics of Bangladesh; Some major administrative systems of developed
+countries; Local self government; Some major aspects of international
+politics.
+
+HUM 411 Business Law
+2 hours in a week, 2.00 Cr.
+Principles of law of contracts; Company law: law regarding formation,
+incorporation, management and winding up of companies; Labor law: law
+in relation to wages hours, health, safety and other condition to work; The
+trade union legislation arbitration, the policy of the state in relation to labor;
+The Factory Act (1965); The Law of compensation (1965).

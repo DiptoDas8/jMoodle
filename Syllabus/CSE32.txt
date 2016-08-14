@@ -1,0 +1,72 @@
+Level-3 Term-II
+
+CSE 301 Mathematical Analysis for Computer
+Science
+3 hours in a week, 3.00 Cr.
+Recurrent problems; Manipulation of sums; Number theory; Special
+numbers; Generating functions. Random variables; Stochastic process;
+Markov chains: discrete parameter, continuous parameter, birth-death
+process; Queuing models: birth-death model, Markovian model, open and
+closed queuing network; Application of queuing models.
+
+CSE 313 Operating System
+3 hours in a week, 3.00 Cr.
+Operating System: its role in computer systems; Operating system concepts;
+Operating system structure; Process: process model and implementation,
+Inter-Process Communication (IPC), classical IPC problems, process
+scheduling, multiprocessing and time-sharing; Memory management:
+swapping, paging, segmentation, virtual memory; Input/Output: hardware,
+software, disk, terminals, clocks; Deadlock: resource allocation and
+deadlock, deadlock detection, prevention and recovery; File Systems: files,
+directories, security, protection; Case study of some operating systems.
+
+CSE 314 Operating System Sessional
+3 hours in a week, 1.50 Cr.
+Laboratory works based on CSE 313.
+
+CSE 315 Microprocessors and Microcontrollers
+3 hours in a week, 3.00 Cr.
+Introduction to 8-bit, 16-bit, and 32-bit microprocessors: architecture,
+addressing modes, instruction set, interrupts, multi-tasking and virtual
+memory; Memory interface; Bus interface; Arithmetic co-processor;
+Microcontrollers; Integrating microprocessor with interfacing chips.
+
+CSE 316 Microprocessors and Microcontrollers
+Sessional
+3 hours in alternate week, 0.75 Cr.
+Laboratory works based on CSE 315.
+
+CSE 317 Numerical Methods
+3 hours in a week, 3.00 Cr.
+Introduction; Solution of algebraic and transcendental equations: method
+of iteration, False Position method, Newton-Rhapson method; Solution of
+simultaneous linear equations: Cramer’s rule, Iteration method, Gauss-Jordan
+Elimination method, Choleski’s process; Interpolation: diagonal and
+horizontal difference, differences of a polynomial, Newton’s formula
+for forward and backward interpolation, Spline interpolation; Numerical
+differentiation and integration; Solution of ordinary differential equations:
+Euler’s method, Picard’s method, Milne’s method, Taylor’s series method,
+Runge-Kutta method; Least squares approximation of functions: linear and
+polynomial regression, fitting exponential and trigonometric functions.
+
+CSE 321 Computer Networks
+4 hours in a week, 4.00 Cr.
+Protocol hierarchies; Data link control: HLDC; DLL in Internet; DLL
+of ATM; LAN Protocols: Standards IEEE 802.*; Hubs, Bridges, and
+Switches, FDDI, Fast Ethernet; Routing algorithm; Congestion control;
+Internetworking, WAN; Fragmentation; Firewalls; IPV4, IPV6, ARP, RARP,
+Mobile IP, Network layer of ATM; Transport protocols; Transmission control
+protocol: connection management, transmission policy, congestion control,
+timer management; UDP; AAL of ATM; Network security: Cryptography,
+DES, IDEA, public key algorithm; Authentication; Digital signatures;
+Gigabit Ethernet; Domain Name System: Name servers; Email and its
+privacy; SNMP; HTTP; World Wide Web.
+
+CSE 322 Computer Networks Sessional
+3 hours in alternate week, 0.75 Cr.
+Laboratory works based on CSE 321.
+
+CSE 324 Software Development
+3 hours in alternate week, 0.75 Cr.
+Term project of making software on some practical problems with sound
+software engineering practices

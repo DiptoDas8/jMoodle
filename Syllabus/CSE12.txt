@@ -1,0 +1,102 @@
+Level-1 Term-II
+
+CSE 103 Discrete Mathematics
+3 hours in a week, 3.00 Cr.
+Set theory; Relations; Functions; Graph theory; Propositional calculus
+and predicate calculus; Mathematical reasoning: induction, contradiction
+and recursion; counting; Principles of inclusion and exclusion; Recurrence
+relations; Algebraic structures: rings and groups.
+
+CSE 105 Structured Programming Language
+3 hours in a week, 3.00 Cr.
+Structured programming language: data types, operators, expressions, control
+structures; Functions and program structure: parameter passing conventions,
+scope rules and storage classes, recursion; Header files; Preprocessor;
+Pointers and arrays; Strings; Multidimensional array; User defined data
+types: structures, unions, enumerations; Input and Output: standard input
+and output, formatted input and output, file access; Variable length argument
+list; Command line parameters; Error Handling; Graphics; Linking; Library
+functions.
+Reference language: C
+
+CSE 106 Structured Programming Language
+Sessional
+3 hours in a week, 1.50 Cr.
+Laboratory works based on CSE 105.
+
+CHEM 101 Chemistry
+3 hours in a week, 3.00 Cr.
+Atomic structure, quantum numbers, electronic configuration, periodic table;
+Properties and uses of noble gases; Different types of chemical bonds
+and their properties; Molecular structure of compounds; Selective organic
+reactions; Different types of solutions and their compositions; Phase rule,
+phase diagram of monocomponent system; Properties of dilute solutions;
+Thermochemistry, chemical kinetics, chemical equilibria; Ionization of water
+and pH concept; Electrical properties of Solution.
+
+CHEM 114 Inorganic Quantitative Analysis
+3 hours in a week, 1.50 Cr.
+Volumetric analysis: acid-base titration, oxidation-reduction titration,
+determination of Fe, Cu, Ca volumetrically.
+
+HUM 175 English
+3 hours in a week, 3.00 Cr.
+English phonetics: the places and manners of articulation of the English
+sounds; Vocabulary; English grammar: construction of sentences, some
+grammatical problems; Comprehension; Paragraph writing; Precis writing;
+Amplification; Report writing; Business communication and tenders; Short
+stories written by some well-known classic writers.
+
+HUM 272 Developing English Skills Laboratory
+3 hours in a week, 1.50 Cr.
+Grammar: Tense, article, preposition, subject-verb agreement, clause,
+conditional and sentence structure.
+Vocabulary building: Correct and precise diction, affixes, level of
+appropriateness. Colloquial and standard, informal and formal.
+Developing reading skill: Strategies of reading - skimming, scanning,
+predicting, inferring; analyzing and interpreting variety of texts; practicing
+comprehension from literary and nonliterary texts.
+Developing writing skill: Sentences, sentence variety, generating sentences;
+clarity and correctness of sentences, linking sentences to form paragraphs,
+writing paragraphs, essays, reports, formal and informal letters. Listening
+skill and note taking: Listening to recorded texts and class lectures and
+learning to take useful notes based on listening.
+Developing speaking skill: Oral skills including communicative expressions
+for personal identification, life at home, giving advice and opinion, instruction
+and directions, requests, complaints, apologies, describing people and places,
+narrating events.
+
+MATH 143 Integral Calculus, Ordinary and
+Partial Differential Equations, and Series
+Solutions
+3 hours in a week, 3.00 Cr.
+Integral Calculus: Definitions of integration; Integration by the method
+of substitutions; Integration by parts; Standard integrals; Integration by the
+method of successive reduction; Definite integrals and its properties and
+use in summing series; Walli’s formula, Improper integrals, Beta function
+and Gamma function; Area under a plane curve in cartesian and polar
+co-ordinates; Area of the region enclosed by two curves in cartesian and
+polar co-ordinates; Trapezoidal rule, Simpson’s rule; Arc lengths of curves
+in cartesian and polar co-ordinates, parametric and pedal equations; Intrinsic
+equation; Volume of solids of revolution; Volume of hollow solids of
+revolution by shell method. Area of surface of revolution; Jacobian, multiple
+integrals and their application.
+Ordinary Differential Equation (ODE): Degree and order of ordinary
+differential equations; Formation of differential equations; Solution of first
+order differential equations by various methods; Solution of first order but
+higher degree ordinary differential equations; Solution of general linear
+equations of second and higher orders with constant coefficients; Solution of
+homogeneous linear equations and its applications; Solution of differential
+equations of higher order when dependent and independent variables are
+absent; Solution of differential equation by the method based on factorization
+of operators.
+Partial Differential Equations (PDE): Four rules for solving simultaneous
+equations of the form dx/P = dy/Q = dz/R ; Lagrange’s method of solving PDE
+of order one; Integral surfaces passing through a given curve; Nonlinear PDE
+of order one (complete, particular, singular and general integrals): standard
+forms f(p; q) = 0, z = px+qy+f(p; q), f(p; q; z) = 0, f1(x; p) = f2(y; q);
+Charpit’s method; Second order PDE: its nomenclature and classifications to
+canonical (standard)- parabolic, elliptic, hyperbolic; Solution by separation
+of variables; Linear PDE with constant coefficients.
+Series Solution: Solution of differential equations in series by the method of
+Frobenius; Bessel’s functions, Legendre’s polynomials and their properties.

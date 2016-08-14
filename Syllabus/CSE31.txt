@@ -1,0 +1,99 @@
+Level-3 Term-I
+
+CSE 300 Technical Writing and Presentation
+3 hours in alternate week, 0.75 Cr.
+Issues of technical writing and effective oral presentation in Computer
+Science and Engineering; Writing styles of definitions, propositions,
+theorems and proofs; Preparation of reports, research papers, theses and
+books: abstract, preface, contents, bibliography and index; Writing of book
+reviews and referee reports; Writing tools: LATEX; Diagram drawing software;
+presentation tools.
+
+CSE 303 Database
+3 hours in a week, 3.00 Cr.
+Concepts of database systems; Models: Entity-Relationship model,
+Relational model; Relational algebra; SQL; Integrity constraint; Relational
+database design; File organization and retrieval, file indexing; Transaction
+manager; Concurrency controller; Recovery manager; Security system;
+Database administration; Advanced database management systems:
+distributed, multimedia, object- oriented, object-relational; Some
+applications using SQL.
+
+CSE 304 Database Sessional
+3 hours in a week, 1.50 Cr.
+Laboratory works based on CSE 303.
+
+CSE 305 Computer Architecture
+3 hours in a week, 3.00 Cr.
+Information representation; Measuring performance; Instructions and
+data access methods: operations and operands of computer hardware,
+representing instruction, addressing styles; Arithmetic Logic Unit (ALU)
+operations, floating point operations, designing ALU; Processor design:
+datapaths - single cycle and multicycle implementations; Control Unit
+design - hardwared and microprogrammed; Hazards; Exceptions; Pipeline:
+pipelined datapath and control, superscalar and dynamic pipelining; Memory
+organization: cache, virtual memory, channels; DMA and Interrupts;
+Buses; Multiprocessors: types of multiprocessors, performance, single bus
+multiprocessors, multiprocessors connected by network, clusters.
+
+CSE 307 Software Engineering and Information
+System Design
+4 hours in a week, 4.00 Cr.
+Concepts of Software Engineering; Software Engineering paradigms;
+Different phases of software System Development; Different types of
+information, qualities of information.
+Project Management Concepts; Software process and project Metrics;
+Software Project Planning; Risk Analysis and management; Project
+Scheduling and Tracking.
+Analysis Concepts and principles: requirement analysis, Analysis modeling,
+data modeling.
+Design concepts and principles, Architectural design, User Interface design,
+Object Oriented software development and design: Iterative Development
+and the Unified Process. Sequential waterfall life cycles, Inception. Use
+case model for requirement writing, Elaboration using System Sequence
+Diagram, Domain Model. Visualizing concept classes. UML diagrams,
+Interaction and Collaboration Diagram for designing Software. Designing
+Objects with responsibilities. GRASP patterns with General Principles in
+assigning responsibilities: Information expert, Creator, Low Coupling and
+High Cohesion, Creating design class diagrams and mapping design to codes.
+Advanced GRASP patterns: Polymorphism, Pure Fabrication, Indirection,
+Project Variation. GoF Design Patterns: Adapter, Factory, Singleton,
+Strategy, Composite, Facade, and Observer.
+Software Testing: White Box and Black Box testing. Basis Path Testing.
+Testing for specialized environment. Software testing strategies: Unit
+Testing, Integration Testing, Validation Testing, System Testing, Art of
+debugging.
+Analysis of System Maintenance and upgrading: Software repair, downtime,
+error and faults, specification and correction, Maintenance cost models,
+documentation.
+Software Quality Assurance, Quality factors. Software quality measures.
+Cost impact of Software defects. Concepts of Software reliability, availability
+and safety. Function based metrics and bang metrics. Metrics for analysis and
+design model. Metrics for source code, testing and maintenance.
+
+CSE 308 Software Engineering and Information
+System Design Sessional
+3 hours in a week, 1.50 Cr.
+Lab works based on CSE307 and a term project.
+
+CSE 309 Compiler
+3 hours in a week, 3.00 Cr.
+Introduction to compiling; Basic issues; Lexical analysis; Syntax analysis;
+Syntax-directed translation; Semantic analysis: type-checking; Run-time
+environments; Intermediate code generation; Code generation; Code
+optimization.
+
+CSE 310 Compiler Sessional
+3 hours in alternate week, 1.50 Cr.
+Laboratory works based on CSE 309 and project works using some lexical
+analyzer and parser designing tools.
+
+CSE 311 Data Communication-I
+3 hours in a week, 3.00 Cr.
+Signal and random processes; Review of Fourier Transform; Hilbert
+Transform, continuous wave modulation: AM, PM, FM; Sampling theorem;
+Pulse modulation: PAM, PDM, PPM, PCM, companding, delta modulation,
+differential PCM; Multiple access techniques: TDM, FDM; Digital
+modulation: ASK, PSK, BPSK, QPSK, FSK, MSK, constellation, bit error
+rate (BER); Noise; Echo cancellation; Intersymbol Interference; Concept of
+channel coding and capacity.

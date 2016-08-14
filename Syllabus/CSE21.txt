@@ -1,0 +1,85 @@
+Level-2 Term-I
+
+CSE 201 Object Oriented Programming Language
+3 hours in a week, 3.00 Cr.
+Philosophy of Object Oriented Programming (OOP); Advantages of OOP
+over structured programming; Encapsulation, classes and objects, access
+specifiers, static and non-static members; Constructors, destructors and
+copy constructors; Array of objects, object pointers, and object references;
+Inheritance: single and multiple inheritance; Polymorphism: overloading,
+abstract classes, virtual functions and overriding; Exceptions; Object
+Oriented I/O; Template functions and classes; Multi-threaded Programming.
+Reference languages: C++ and Java.
+
+CSE 202 Object Oriented Programming
+Language Sessional
+3 hours in a week, 1.50 Cr.
+Laboratory works based on CSE 201.
+
+CSE 203 Data Structures
+3 hours in a week, 3.00 Cr.
+Internal data representation; Abstract data types; Elementary data structures:
+arrays, lists, stacks, queues, trees, graphs; Advanced data Structures: heaps,
+Fibonacci heaps, B-trees; Recursion, sorting, searching, hashing, storage
+management.
+
+CSE 204 Data Structures Sessional
+3 hours in alternate week, 0.75 Cr.
+Laboratory works based on CSE 203.
+
+CSE 205 Digital Logic Design
+3 hours in a week, 3.00 Cr.
+Digital logic: Boolean algebra, De Morgan’s Theorems, logic gates and
+their truth tables, canonical forms, combinational logic circuits, minimization
+techniques; Arithmetic and data handling logic circuits, decoders and
+encoders, multiplexers and demultiplexers; Combinational circuit design;
+Flip-flops, race around problems; Counters: asynchronous counters,
+synchronous counters and their applications; PLA design; Synchronous and
+asynchronous logic design; State diagram, Mealy and Moore machines;
+State minimizations and assignments; Pulse mode logic; Fundamental mode
+design.
+
+CSE 206 Digital Logic Design Sessional
+3 hours in a week, 1.50 Cr.
+Laboratory works based on CSE 205.
+
+EEE 263 Electronic Devices and Circuits
+4 hours in a week, 4.00 Cr.
+Introduction to semiconductors, p-type and n-type semiconductors; p-n
+junction diode characteristics; Diode applications: half and full wave
+rectifiers, clipping and clamping circuits, regulated power supply using zener
+diode.
+Bipolar Junction Transistor (BJT): principle of operation, I-V characteristics;
+Transistor circuit configurations (CE, CB, CC), BJT biasing, load lines; BJTs
+at low frequencies; Hybrid model, h parameters, simplified hybrid model;
+Small-signal analysis of single and multi-stage amplifiers, frequency response
+of BJT amplifier; Field Effect Transistors (FET): principle of operation of
+JFET and MOSFET; Depletion and enhancement type NMOS and PMOS;
+biasing of FETs; Low and high frequency models of FETs, Switching circuits
+using FETs; Introduction to CMOS.
+Operational Amplifiers (OPAMP): linear applications of OPAMPs, gain,
+input and output impedances, active filters, frequency response and noise.
+Introduction to feedback, Oscillators, Silicon Controlled Rectifiers (SCR),
+TRIAC, DIAC and UJT: characteristics and applications; Introduction to IC
+fabrication processes.
+
+EEE 264 Electronic Devices and Circuits Sessional
+3 hours in a week, 1.50 Cr.
+Laboratory works based on EEE 263
+
+MATH 241 Complex Variable and Statistics
+3 hours in a week, 3.00 Cr.
+Complex Variable: Complex number system; General functions of a
+complex variable; Limits and continuity of a function of complex variable
+and related theorems; Complex differentiation and the Cauchy-Riemann
+Equations; Mapping by elementary functions; Line integral of a complex
+function; Cauchy’s Integral Theorem; Cauchy’s Integral Formula; Liouville’s
+Theorem; Taylor’s Theorem and Laurent’s Theorem. Singular points;
+Residue; Cauchy’s Residue Theorem. Evaluation of residues; Contour
+integration; Conformal mapping.
+Statistics: Frequency distribution; Mean, median, mode and other measures
+of central tendency; Standard deviation and other measures of dispersion;
+Moments, skewness and kurtosis; Elementary probability theory and
+discontinuous probability distribution, (binomial, Poisson and negative
+binomial); Characteristics of distributions; Elementary sampling theory;
+Estimation; Hypothesis testing and regression analysis.

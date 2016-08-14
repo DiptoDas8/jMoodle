@@ -1,0 +1,100 @@
+Level-2 Term-II
+
+CSE 207 Algorithms
+3 hours in a week, 3.00 Cr.
+Techniques for analysis of algorithms; Methods for the design of efficient
+algorithms: divide and conquer, greedy method, dynamic programming,
+back tracking, branch and bound; Basic search and traversal techniques;
+Topological sorting; Connected components, spanning trees, shortest paths;
+Flow algorithms; Approximation algorithms; Parallel algorithms; Algebraic
+simplification and transformations; Lower bound theory; NP-completeness,
+NP-hard and NP-complete problems.
+
+CSE 208 Algorithms Sessional
+3 hours in alternate week, 0.75 Cr.
+Laboratory work based on CSE 207.
+
+CSE 209 Digital Electronics and Pulse Techniques
+3 hours in a week, 3.00 Cr.
+Diode logic gates, transistor switches, transistor gates, MOS gates; Logic
+Families: TTL, ECL, IIL and CMOS logic with operation details;
+Propagation delay, product and noise immunity; Open collector and high
+impedance gates; Electronic circuits for flip-flops, counters and register,
+memory systems, PLAs; A/D and D/A converters with applications; S/H
+circuits, LED, LCD and optically coupled oscillators; Non-linear applications
+of OP AMPs; Analog switches. Linear wave shaping: diode wave
+shaping techniques, clipping and clamping circuits, comparator circuits,
+switching circuits; Pulse transformers, pulse transmission, pulse generation;
+monostable, bistable and astable multivibrators, Schmitt trigger, blocking
+oscillators and time-base circuit; Timing circuits; Simple voltage sweeps,
+linear current sweeps.
+
+CSE 210 Digital Electronics and Pulse Techniques
+Sessional
+3 hours in a week, 1.50 Cr.
+Laboratory works based on CSE 209.
+
+CSE 211 Theory of Computation
+2 hours in a week, 2.00 Cr.
+Language theory; Finite automata: deterministic finite automata,
+nondeterministic finite automata, equivalence and conversion of deterministic
+and nondeterministic finite automata, pushdown automata; Context free
+languages; Context free grammars; Turing Machines: basic machines,
+configuration, computing with Turing machines, combining Turing
+machines; Undecidability.
+
+CSE 214 Assembly Language Programming
+3 hours in a week, 1.50 Cr.
+Hardware architecture and software architecture; Instruction types and their
+formats; Assembly program format; Assembly process; Interrupts and system
+services; Addressing methods; High level control structure formation; Use
+of subroutines and macros; Numeric processing and string processing;
+Concurrent processes and high level linking; Disk geometry, file system and
+file I/O handling.
+
+EEE 269 Electrical Drives and Instrumentation
+3 hours in a week, 3.00 Cr.
+Introduction to three phase circuits, alternators and transformers; Principles
+of operation of DC, synchronous, induction, universal, and stepper motors;
+Thyristor and microprocessor based speed control of motors.
+Instrumentation amplifiers: differential, logarithmic and chopper amplifiers;
+Frequency and voltage measurements using digital techniques; Recorders
+and display devices, spectrum analyzers and logic analyzers; Data
+acquisition and interfacing to microprocessor based systems; Transducers:
+terminology, types, principles and application of photovoltaic, piezoelectric,
+thermoelectric, variable reactance and opto-electronic transducers; Noise
+reduction in instrumentation.
+
+EEE 270 Electrical Drives and Instrumentation
+Sessional
+3 hours in a week, 1.50 Cr.
+Laboratory works based on EEE 269.
+
+MATH 243 Matrices, Vectors, Fourier Analysis,
+and Laplace Transforms
+4 hours in a week, 4.00 Cr.
+Matrices: Definition of matrix; Different types of matrices; Algebra of
+matrices; Adjoint and inverse of a matrix; Elementary transformations of
+matrices; Matrix polynomials; Calay-Hamilton theory with uses of rank
+and nullity; Normal and canonical forms; Solution of linear equations;
+Eigenvalues and eigenvectors.
+Vector Spaces: Definition and properties, subspaces, basis and dimension,
+change of basis; Linear Transformation (LT): definition and properties, linear
+operator matrix, geometry of LT, standard plane LT.
+Vector Algebra: Scalars and vectors, equality of vectors; Addition and
+subtraction of vectors; Multiplication of vectors by scalars; Scalar and vector
+product of two vectors and their geometrical interpretation; Triple products
+ce of vectors.
+Vector Calculus: Differentiation and integration of vectors together with
+elementary applications; Definition of line, surface and volume integrals;
+Gradient, divergence and curl of point functions, various formulae, Gauss’s
+theorem, Stoke’s theorem, Green’s theorem.
+Fourier Analysis: Real and complex form of Fourier series; Finite transform;
+Fourier Integral; Fourier transforms and their uses in solving boundary value
+problems of wave equations.
+Laplace Transforms: Definition; Laplace transforms of some elementary
+functions; Sufficient conditions for existence of Laplace transforms; Inverse
+Laplace transforms; Laplace transforms of derivatives. The unit step
+function; Periodic function; Some special theorems on Laplace transforms;
+Partial fraction; Solutions of differential equations by Laplace transforms;
+Evaluation of improper integrals.
